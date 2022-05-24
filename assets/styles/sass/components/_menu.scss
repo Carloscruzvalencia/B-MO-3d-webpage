@@ -1,0 +1,28 @@
+header{
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100vw;
+    background-color: #1285AA;
+    nav{
+        height: 8vh;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        align-items: center;
+        justify-items: center;
+        .menu{
+            margin-left: 2vw;
+            justify-self: start;
+        }
+        // .logo{
+        // }
+        ul{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            width: 10vw;
+            li{
+
+            }
+        }
+    }
+}

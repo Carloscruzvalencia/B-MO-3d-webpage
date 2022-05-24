@@ -25,7 +25,7 @@ lenguajes/frameworks usados
 <code><img height="30" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
 
 ## Inpiracion del proyecto & objetivo
-El objetivo principal es crear una pagina mezclando 3d y html donde el usuario pueda pueda interactuar con ella. creando un diseño inovador y funcional.
+El objetivo principal es crear una pagina mezclando 3d y html donde el usuario pueda interactuar con ella. creando un diseño inovador y funcional.
 
 inspiracion del proyecto: carlos cruz valencia diseño en figma
 

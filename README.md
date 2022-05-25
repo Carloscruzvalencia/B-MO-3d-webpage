@@ -34,8 +34,7 @@ inspiracion del proyecto: carlos cruz valencia diseño en figma
 ## Estado del proyecto
 |             ESTADO                |             |
 | -------------------------- | :----------------: | 
-| TERMINADO           |              |  
-| EN PROGRESO           |          ✔️    |  
+| TERMINADO           |        ✔️      |  
 
 ## Vista previa del proyecto
 <img src="project-preview.gif" aling="center"></img>

@@ -19,9 +19,16 @@ header{
         ul{
             display: grid;
             grid-template-columns: 1fr 1fr 1fr 1fr;
-            width: 10vw;
-            li{
-
+            li{ 
+                display: grid;
+                font-size: 1.5vw;
+                border-right: 2px white solid;
+                padding-right: 1vw;
+                padding-left: 2vw;
+            }
+            li:hover{
+                background-color: #00bfff;
+                color: white;
             }
         }
     }

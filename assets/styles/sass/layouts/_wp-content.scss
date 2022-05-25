@@ -1,0 +1,80 @@
+main {
+    .wp-description {
+        position: absolute;
+        z-index: 1;
+        width: 20vw;
+        top: 25vh;
+        left: 10vw;
+        display: grid;
+        row-gap: 2vh;
+
+        h1 {
+            font-size: 2.5vw;
+            font-weight: bold;
+        }
+
+        p {
+            font-size: 1.5vw;
+            font-weight: bold;
+            text-align: justify;
+            width: 30vw;
+            margin-left: -5vw;
+        }
+    }
+
+    .wp-paleta {
+        position: absolute;
+        z-index: 1;
+        top: 60vh;
+        left: 7vw;
+        display: grid;
+        justify-items: center;
+        h1{
+            font-size: 2.5vw;
+            font-weight: bold;
+        }
+        div {
+            margin-top: 2vh;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            grid-gap: 0.2vw;
+            background-color: transparent;
+            .rad-color {
+                width: 5vw;
+                height: 5vw;
+                border-radius: 100%;
+                border: 2px black solid;
+            }
+        }
+        div:nth-child(1) {
+            background-color: #5BAC98;
+        }
+        .cr-2{
+            background-color: #EFF7F4;
+        }
+        div:nth-child(3) {
+            background-color: #081212;
+        }
+        div:nth-child(4) {
+            background-color: #CF1A52;
+        }
+        div:nth-child(5) {
+            background-color: #D1C661;
+        }
+        div:nth-child(6) {
+            background-color: #0B1966;
+        }
+        div:nth-child(7) {
+            background-color: #082928;
+        }
+        div:nth-child(8) {
+            background-color: #3AE554;
+        }
+        div:nth-child(9) {
+            background-color: #1DE8EF;
+        }
+        div:nth-child(10) {
+            background-color: #5FAFB5;
+        }
+    }
+}
